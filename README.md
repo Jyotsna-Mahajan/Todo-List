@@ -28,6 +28,6 @@ This project demonstrates the use of React hooks (useState), conditional renderi
 
 5. Unique ID generation using uuid
 
-Event Handling in React
+6. Event Handling in React
 
-Material UI Icons Integration
+7. Material UI Icons Integration
